@@ -2,9 +2,11 @@
 
 body {
     background-color: #c1946a;
-    padding-top: 170px;
+    padding-top: 100px;
+    text-align: center;
 
 }
+
 
 section {
     margin-top: 100px;
@@ -16,6 +18,10 @@ h2 {
     text-align: left;
     letter-spacing: 2px;
     
+}
+h3 {
+    text-align: center;
+    font-style: "Abel", sans-serif;
 }
 
 p {
@@ -92,7 +98,12 @@ em{
 #timetable-hd {
     text-align: center;
     margin-top: 30px;
+    margin-bottom: 30px;
 
+}
+.btn-success {
+    display: block;
+    margin: auto;
 }
 
 /*------FOOTER-----*/
