@@ -2,20 +2,20 @@
 
 body {
     background-color: #c1946a;
-    padding-top: 100px;
+    padding-top: 75px;
     
 
 }
 
 
 section {
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 h2 {
     font-size: 2em;
     font-family: "Abel",sans-serif;
-    text-align: left;
+    text-align: center;
     letter-spacing: 2px;
     
 }
@@ -62,6 +62,10 @@ p {
     text-decoration: underline;
 }
 /*------WELCOME PAGE-----*/
+#section-image {
+    margin-top: 0;
+}
+
 #slider {
     overflow: hidden;
 
@@ -78,6 +82,7 @@ p {
 #slider figure img {
     width: 20%;
     float: left;
+    height: 75%;
 
 }
 @keyframes slider {
