@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Poiret+One&family=Roboto:wght@100;300;400;500;700&display=swap');
 
-.body {
-    background-color: #fafafa
+body {
+    background-color: #c1946a;
+    padding-top: 170px;
+
 }
 
 section {
@@ -13,6 +15,7 @@ h2 {
     font-family: "Abel",sans-serif;
     text-align: left;
     letter-spacing: 2px;
+    
 }
 
 p {
@@ -69,32 +72,27 @@ em{
     height: 150px;
     border: 3px solid rgba(22, 20, 20, 0.521);
     border-radius: 50%;
-    margin: 30px;
+    
 
 }
 
-/*-------TIMETABLE---*/
-#customers {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
+
+/*-------TIMETABLE PAGE---*/
+.table-container {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    padding-top: 0;
+   
+
 }
+#timetable-hd {
+    text-align: center;
+    margin-top: 30px;
 
-#customers td, #customers th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-#customers tr:nth-child(even){background-color: #f2f2f2;}
-
-#customers tr:hover {background-color: #ddd;}
-
-#customers th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: rgb(87, 87, 87);
-  color: rgb(218, 216, 216);
 }
 
 /*------FOOTER-----*/
