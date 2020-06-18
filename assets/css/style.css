@@ -74,6 +74,12 @@ p {
 
 
 /*--------Welcome page slide pictures----*/
+
+.btn-dark {
+    display: block;
+    margin: auto;
+    
+}
 #section-image {
     margin-top: 0;
 }
@@ -81,6 +87,8 @@ p {
     position: absolute;
     z-index: 1;
     background-color: transparent;
+    margin: 20px;
+    border: 10px;
     
 }
 #slider {
