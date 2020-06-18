@@ -69,7 +69,12 @@ p {
 #section-image {
     margin-top: 0;
 }
-
+.invitation{
+    position: absolute;
+    z-index: 1;
+    background-color: transparent;
+    
+}
 #slider {
     overflow: hidden;
 

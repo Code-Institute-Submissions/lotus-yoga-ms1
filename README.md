@@ -6,6 +6,11 @@ The website is created to promote a new vibrant yoga studio and to increase the 
 
 The Website is accesible on a range of devices making it easy to navigate. 
 
+
+
+
+
+
 ## User Experience (UX)
 
 <p>I've tried to make the navigation as simple as possible. 
@@ -105,6 +110,10 @@ Also site is not fully functional.
 - Adding google maps to the contact page with the studio location.
 - Making contact page live
 - Adding functionality to all the buttons
+- Going forward with teh project and the studio I would like to create 
+members log in and special functions for members.
+- Adding shopping page for studio merch items like yoga mats, towels, water bottles with the brand
+to the page.
 
 ## Teachnologies used
 
@@ -167,6 +176,7 @@ Also used quotes from [Table for Change](https://tableforchange.com/yoga-quotes/
 and helping me to find solutions when I was coming to the dead ends. </li>
 <li>Code Institute student support team especially Claire Lally for her help going an extra mile 
 and inspiration</li>
+-Stack Oversflow 
 
 
 
