@@ -92,6 +92,20 @@ as the Yoga Studio grows. As I went on to design I had to leave out certain part
 
 <li>Responsive on all device sizes.</li>
 
+## Features to implement
+
+Going ahead with the yoga studio the website design would be slightly asjusted.
+Also site is not fully functional.
+
+
+- Making the contact page live and functional
+- Use of a CNAME (Canonical Name) URL
+- Creating classes online booking system
+-  Adding payment options
+- Adding google maps to the contact page with the studio location.
+- Making contact page live
+- Adding functionality to all the buttons
+
 ## Teachnologies used
 
 1.	Bootstrap 4.4.1:
@@ -120,6 +134,7 @@ o	Balsamiq was used to create the wireframes during the design process
 
 
 ## Credits
+
 ### Code
 <li>	The full-screen Hero-image slideshow came from [Youtube tutorial](https://www.youtube.com/watch?v=pGHOaY4dhAA)</li>
 <li>	Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
@@ -130,6 +145,8 @@ Also for navigation bar.</li>
 >
  <li>Timetable and contact form structures I used from student
  [Michelle Clement project](https://github.com/michellelclement/yoga-flow-ms1)
+<li> W3School was a huge help applying differnt features throughout the project</li>
+<li> As well as all Code Institute mini projects I took quite a lot of inspirations from them</li>
 
 ### Content
 <li>	All content was written by the developer.
@@ -141,10 +158,13 @@ Also used quotes from [Table for Change](https://tableforchange.com/yoga-quotes/
 
 ### Media
 •	Pexels and Pexelbay 
-Acknowledgements
+
+### Acknowledgements
+
 <li>My Mentor for continuous helpful feedback.</li>
 <li>Slack community</li>
-<li>Tutor support at Code Institute for their support.</li>
+<li>Tutor support at Code Institute for their support and help answering questions
+and helping me to find solutions when I was coming to the dead ends. </li>
 <li>Code Institute student support team especially Claire Lally for her help going an extra mile 
 and inspiration</li>
 
