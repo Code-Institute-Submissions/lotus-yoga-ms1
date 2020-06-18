@@ -141,6 +141,12 @@ o	Paint 3D was used for resizing images for the website.
 9.	Balsamiq:
 o	Balsamiq was used to create the wireframes during the design process
 
+## Further Testing
+•	The Website was tested on Google Chrome and Internet Explorer I did available option to test it on Safari.
+•	The website was viewed on a variety of devices such as Desktop, Laptop and Samsung S8.
+•	A large amount of testing was done to ensure that all pages were linking correctly.
+•	Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues
+
 
 ## Credits
 
@@ -176,7 +182,7 @@ Also used quotes from [Table for Change](https://tableforchange.com/yoga-quotes/
 and helping me to find solutions when I was coming to the dead ends. </li>
 <li>Code Institute student support team especially Claire Lally for her help going an extra mile 
 and inspiration</li>
--Stack Oversflow 
+<li>Stack Oversflow </li>
 
 
 
