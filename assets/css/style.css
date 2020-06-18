@@ -17,6 +17,7 @@ h2 {
     font-family: "Abel",sans-serif;
     text-align: center;
     letter-spacing: 2px;
+    padding: 20px;
     
 }
 h3 {
@@ -62,6 +63,9 @@ p {
     text-decoration: underline;
 }
 /*------WELCOME PAGE-----*/
+
+
+/*--------Welcome page slide pictures----*/
 #section-image {
     margin-top: 0;
 }
@@ -130,6 +134,10 @@ em{
     border-radius: 50%;
     
 
+}
+#classes-hd {
+    margin-top: 20px;
+    padding: 10px;
 }
 
 
