@@ -65,3 +65,32 @@ as the Yoga Studio grows. As I went on to design i had to leave out certain part
 <li>Mobile Wireframe</li>
 <li>Tablet Wireframe</li>
 <li>Website Wireframe</li>
+
+## Features
+
+<li>Responsive on all device sizes.</li>
+
+## Teachnologies used
+
+1.	Bootstrap 4.4.1:
+<li>	Bootstrap was used to assist with the responsiveness and styling of the website.
+</li>
+
+2.	Hover.css:
+	Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
+As well on the site Logo and Menu Items.
+3.	Google Fonts:
+o	Google fonts were used to import the "Poiret One", "Abel", "Roboto" fonts into the style.css file which are used on all pages throughout the project.
+4.	Font Awesome:
+o	Font Awesome was used on all pages footer to add Social media icons for aesthetic and UX purposes.
+5.	jQuery:
+o	jQuery came with Bootstrap to make the navbar responsive.
+6.	Git
+o	Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+7.	GitHub:
+o	GitHub is used to store the projects code after being pushed from Git.
+8.	Paint 3D:
+o	Paint 3D was used for resizing images for the website.
+9.	Balsamiq:
+o	Balsamiq was used to create the wireframes during the design process
+
