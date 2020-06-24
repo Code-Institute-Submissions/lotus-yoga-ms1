@@ -47,7 +47,8 @@ p {
     text-align: left;
     letter-spacing: 3px;
     color: grey;
-    margin-left: 25px;
+    margin-left: 0;
+    padding-left: 0;
 
 }
 
@@ -89,6 +90,8 @@ p {
     background-color: transparent;
     margin: 20px;
     border: 10px;
+    align-items: center;
+    
     
 }
 #slider {
@@ -145,6 +148,12 @@ p {
 em{ 
     font-weight: bold;
     font-style: normal;
+}
+.teachers-img{
+    width: 300px;
+    height: 300px;
+    border: 3px solid rgba(22, 20, 20, 0.521);
+    border-radius: 50%;
 }
 
 /*------CLASSES-----*/
