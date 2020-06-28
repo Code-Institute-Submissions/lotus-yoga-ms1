@@ -136,6 +136,7 @@ into timetable.html
 - footer it moves up depending on the responsiveness
 - contact form adjust alignments with the adress information
 - the menu bar is hidden on the left side on different devices
+- main invitation heading on the HOME page needs to be centered and responsive
 
 ## Teachnologies used
 
