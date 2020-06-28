@@ -63,6 +63,7 @@ p {
     letter-spacing: 2px;
     text-align: right;
     float: left;
+    justify-content: flex-end;
     
 }
 .nav-item:hover {
@@ -87,10 +88,11 @@ p {
 .invitation{
     position: absolute;
     z-index: 1;
-    background-color: transparent;
+    background-color: rgba( 0, 0, 0, 0.5);
     margin: 20px;
     border: 10px;
     align-items: center;
+
     
     
 }
@@ -110,7 +112,7 @@ p {
 #slider figure img {
     width: 20%;
     float: left;
-    height: 75%;
+    height: 65%;
 
 }
 @keyframes slider {
