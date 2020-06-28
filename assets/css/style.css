@@ -69,6 +69,12 @@ p {
   justify-content: flex-end;
 }
 
+.navbar-items {
+ -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+}
+
 .nav-item:hover {
   text-decoration: underline;
 }
@@ -214,10 +220,6 @@ em {
   }
 }
 
-.memberships {
-    padding: 0;
-}
-
 #timetable-hd {
   text-align: center;
   margin-top: 30px;
@@ -237,15 +239,14 @@ em {
 }
 
 .contact-info {
-    border: 1px solid black;
-    margin-bottom: 20px;
-    padding: 20px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+  padding: 20px;
 }
 
 .form-group {
-    margin-left: 30px;
-    border: 15px;
-    padding-left: 20px;
+  border: 15px;
+  padding-left: 20px;
 }
 
 /*------FOOTER-----*/

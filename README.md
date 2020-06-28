@@ -1,4 +1,7 @@
 # Lotus Yoga Website
+
+(View website here)[https://dovi-k.github.io/lotus-yoga-ms1/]
+
 The website is created to promote a new vibrant yoga studio and to increase the flow of new students
  as well as to increase students who sign up for the monthly membership.
 
