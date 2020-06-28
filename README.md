@@ -100,9 +100,6 @@ as the Yoga Studio grows. As I went on to design I had to leave out certain part
 * [Tablet Wireframe](wireframes/tabletwireframe.pdf)
 * [Website Wireframe](wireframes/websitewireframe.pdf)
 
-## Features
-
-<li>Responsive on all device sizes.</li>
 
 ## Features to implement
 
@@ -117,10 +114,28 @@ Also site is not fully functional.
 - Adding google maps to the contact page with the studio location.
 - Making contact page live
 - Adding functionality to all the buttons
-- Going forward with teh project and the studio I would like to create 
+- Going forward with the project and the studio I would like to create 
 members log in and special functions for members.
 - Adding shopping page for studio merch items like yoga mats, towels, water bottles with the brand
 to the page.
+
+## Bugs to fix
+- fixing the responsiveness on diffrent devices. The websites still
+needs quite a lot of work on that.
+- the main image is taking too much space of on the main HOME page.
+I would fit so you owuld see full view of teh image slidehow without having
+to scroll down a little bit.
+- margins-left for the images in classes.html the gap is slightly too big.
+and then when that page is resizes give the images some bottom margin to give space between
+text and the images.
+- timetable responsiveness
+- memberships respinsiveness 
+- adding the href to The Memberships so you oudl be brought directly to 
+the Membership section of the timetable.html instead of being just brought
+into timetable.html
+- footer it moves up depending on the responsiveness
+- contact form adjust alignments with the adress information
+- the menu bar is hidden on the left side on different devices
 
 ## Teachnologies used
 
@@ -147,7 +162,13 @@ for this reason there are a lot of commits missing at the very beginning of the 
 o	Paint 3D was used for resizing images for the website.
 9.	[Balsamiq:](www.balsamiq.com)
 o	Balsamiq was used to create the wireframes during the design process
-
+## Tools used
+To create my website I used these languges and tools
+* [HTML](https://html.com/)
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) 
+* [Bootstrap](https://getbootstrap.com/)
+* [GitHub](https://github.com/)
+* [GitPod](https://www.gitpod.io/)
 ## Deployment
 1. Log in to your GitHub account
 2. Select repository that you would like to Deploy
@@ -156,12 +177,15 @@ o	Balsamiq was used to create the wireframes during the design process
 5. Select "Master Branch" in the dropdown
 6. Your project will be deployed and you will get your URL https://dovi-k.github.io/lotus-yoga-ms1/ 
 
-## Further Testing
+##  Testing
+For testing my code I used 
+* [W3C HTML Validator](https://validator.w3.org/) to check validity of my HTML code.
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - to check validity of my CSS code.
 *	The Website was tested on Google Chrome and Internet Explorer I did available option to test it on Safari.
 *	The website was viewed on a variety of devices such as Desktop, Laptop and Samsung S8.
 *	A large amount of testing was done to ensure that all pages were linking correctly.
 *	Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues
-
+* [Further testing can be found here](Testing.md) 
 
 ## Credits
 
