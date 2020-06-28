@@ -2,6 +2,8 @@
 
 [View live website here.](https://dovi-k.github.io/lotus-yoga-ms1/)
 
+![Responsive Image](assets/additional_images/responsive.png)
+
 The website is created to promote a new vibrant yoga studio and to increase the flow of new students
  as well as to increase students who sign up for the monthly membership.
 
@@ -146,6 +148,14 @@ o	Paint 3D was used for resizing images for the website.
 9.	[Balsamiq:](www.balsamiq.com)
 o	Balsamiq was used to create the wireframes during the design process
 
+## Deployment
+1. Log in to your GitHub account
+2. Select repository that you would like to Deploy
+3. Go to Settings icon the (top right of the page)
+4. Scroll down to the GitHub Pages section
+5. Select "Master Branch" in the dropdown
+6. Your project will be deployed and you will get your URL https://dovi-k.github.io/lotus-yoga-ms1/ 
+
 ## Further Testing
 *	The Website was tested on Google Chrome and Internet Explorer I did available option to test it on Safari.
 *	The website was viewed on a variety of devices such as Desktop, Laptop and Samsung S8.
@@ -164,11 +174,11 @@ Also for navigation bar.
  * "Customer reviews" section from CI Whiskey project
  *Timetable and contact form structures I used from student
  [Michelle Clement project](https://github.com/michellelclement/yoga-flow-ms1)
-* W3School was a huge help applying differnt features throughout the project
-* As well as all Code Institute mini projects I took quite a lot of inspirations from them
+* [W3School](www.w3school.com) was a huge help applying differnt features throughout the project
+* As well as all [Code Institute](www.codeinstitute.com) mini projects I took quite a lot of inspirations from them
 
 ### Content
-<li>	All content was written by the developer.
+* All content was written by the developer.
  I took inspiration for content as well as design from
 websites like [YogaHub](www.yogahub.ie), [DevaYoga](www.devayoga.co.uk).
 Also used quotes from [Table for Change](https://tableforchange.com/yoga-quotes/).
@@ -176,7 +186,9 @@ Also used quotes from [Table for Change](https://tableforchange.com/yoga-quotes/
 
 
 ### Media
-•	Pexels and Pexelbay 
+*	[Pexels](www.pexels.com) and [Pexelbay](www.pexelbay.com) 
+* [Responsiveness image](http://ami.responsivedesign.is/#)
+
 
 ### Acknowledgements
 

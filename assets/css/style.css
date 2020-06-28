@@ -69,12 +69,6 @@ p {
   justify-content: flex-end;
 }
 
-.navbar-items {
- -webkit-box-pack: end;
-        -ms-flex-pack: end;
-            justify-content: flex-end;
-}
-
 .nav-item:hover {
   text-decoration: underline;
 }
