@@ -1,6 +1,6 @@
 # Lotus Yoga Website
 
-(View website here)[https://dovi-k.github.io/lotus-yoga-ms1/]
+[View live website here.](https://dovi-k.github.io/lotus-yoga-ms1/)
 
 The website is created to promote a new vibrant yoga studio and to increase the flow of new students
  as well as to increase students who sign up for the monthly membership.
@@ -8,6 +8,7 @@ The website is created to promote a new vibrant yoga studio and to increase the 
  Promoting yoga, mindfulness and wellbeing is at the core of Lotus Yoga values.
 
 The Website is accesible on a range of devices making it easy to navigate. 
+
 
 
 
@@ -78,9 +79,10 @@ Most of the pictures used are of yoga teachers and students in the class or yoga
 Allowing the user to picture themselves in their place and get a better idea what to expect.
 
 All images were taken from the free stock photos websites:
-<li>(Pexels)[https://www.pexels.com/]</li>
-<li>(Pexabay)[https://pixabay.com/images/search/meditation/?pagi=2]</li>
-<li>The only picture taken from personal portfolio is in Wecome page
+
+* [Pexels](https://www.pexels.com/)
+* [Pexabay](https://pixabay.com/images/)
+* The only picture taken from personal portfolio is in Wecome page
  Teacher section (Dovile) picture was taken by Barry Gibons</li>
 The technology used for pictures was Paint 3D I used Resizing pictures to 
 so that tehy would nicely align in the class section and teachers section as I had a 
@@ -92,9 +94,9 @@ the pictures were distorted.
 In the wireframes available there are extra sections that may be implement
 as the Yoga Studio grows. As I went on to design I had to leave out certain parts.
 
-<li>Mobile Wireframe</li>
-<li>Tablet Wireframe</li>
-<li>Website Wireframe</li>
+* [Mobile Wireframe](wireframes/mobilewireframe.pdf) 
+* [Tablet Wireframe](wireframes/tabletwireframe.pdf)
+* [Website Wireframe](wireframes/websitewireframe.pdf)
 
 ## Features
 
@@ -120,16 +122,16 @@ to the page.
 
 ## Teachnologies used
 
-1.	Bootstrap 4.4.1:
+1.	[Bootstrap 4.4.1:](www.getbootsrap.com)
 <li>	Bootstrap was used to assist with the responsiveness and styling of the website.
 </li>
 
 2.	Hover.css:
 	Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 As well on the site Logo and Menu Items.
-3.	Google Fonts:
+3.	[Google Fonts:](fonts.google.com)
 o	Google fonts were used to import the "Poiret One", "Abel", "Roboto" fonts into the style.css file which are used on all pages throughout the project.
-4.	Font Awesome:
+4.	[Font Awesome:](www.fontawesome.com)
 o	Font Awesome was used on all pages footer to add Social media icons for aesthetic and UX purposes.
 5.	jQuery:
 o	jQuery came with Bootstrap to make the navbar responsive.
@@ -141,30 +143,29 @@ I was not using it the correctly at the very beginning of my project
 for this reason there are a lot of commits missing at the very beginning of the project.
 8.	Paint 3D:
 o	Paint 3D was used for resizing images for the website.
-9.	Balsamiq:
+9.	[Balsamiq:](www.balsamiq.com)
 o	Balsamiq was used to create the wireframes during the design process
 
 ## Further Testing
-•	The Website was tested on Google Chrome and Internet Explorer I did available option to test it on Safari.
-•	The website was viewed on a variety of devices such as Desktop, Laptop and Samsung S8.
-•	A large amount of testing was done to ensure that all pages were linking correctly.
-•	Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues
+*	The Website was tested on Google Chrome and Internet Explorer I did available option to test it on Safari.
+*	The website was viewed on a variety of devices such as Desktop, Laptop and Samsung S8.
+*	A large amount of testing was done to ensure that all pages were linking correctly.
+*	Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues
 
 
 ## Credits
 
 ### Code
-<li>	The full-screen Hero-image slideshow came from [Youtube tutorial](https://www.youtube.com/watch?v=pGHOaY4dhAA)</li>
-<li>	Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-Also for navigation bar.</li>
-<li>Header and footer structures was used from
+*	The full-screen Hero-image slideshow came from [Youtube tutorial](https://www.youtube.com/watch?v=pGHOaY4dhAA)
+*	Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+Also for navigation bar.
+* Header and footer structures was used from
  [Claire Lally poject](https://github.com/ClaireLally8/TravellingDTrainer)
- </li>
->
- <li>Timetable and contact form structures I used from student
+ * "Customer reviews" section from CI Whiskey project
+ *Timetable and contact form structures I used from student
  [Michelle Clement project](https://github.com/michellelclement/yoga-flow-ms1)
-<li> W3School was a huge help applying differnt features throughout the project</li>
-<li> As well as all Code Institute mini projects I took quite a lot of inspirations from them</li>
+* W3School was a huge help applying differnt features throughout the project
+* As well as all Code Institute mini projects I took quite a lot of inspirations from them
 
 ### Content
 <li>	All content was written by the developer.
@@ -179,13 +180,13 @@ Also used quotes from [Table for Change](https://tableforchange.com/yoga-quotes/
 
 ### Acknowledgements
 
-<li>My Mentor for continuous helpful feedback.</li>
-<li>Slack community</li>
-<li>Tutor support at Code Institute for their support and help answering questions
+* My Mentor for continuous helpful feedback. 
+* [Slack community](www.slack.com)
+* Tutor support at Code Institute for their support and help answering questions
 and helping me to find solutions when I was coming to the dead ends. </li>
-<li>Code Institute student support team especially Claire Lally for her help going an extra mile 
-and inspiration</li>
-<li>Stack Oversflow </li>
+* [Code Institute](www.codeinstitute.net) and student support team especially [Claire Lally](https://github.com/ClaireLally8) for her help going an extra mile 
+and inspiration
+* [Stack Overflow](www.stackoverflow.com) 
 
 
 
